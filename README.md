@@ -30,7 +30,7 @@ The Windows installer is unsigned, so SmartScreen may show a warning. Proceed on
 2. Drag **Reqzen** into **Applications**.
 3. Open Reqzen from Applications.
 
-The macOS packages are unsigned and not notarized, so macOS may block the first launch. If you trust the official download, Control-click the app in Finder, choose **Open**, and confirm.
+The macOS packages are unsigned and not notarized, so macOS may block the first launch. Only proceed if you downloaded Reqzen from the official Releases page and trust the download. In Finder, Control-click Reqzen, choose **Open**, and confirm. If macOS still blocks it, go to **System Settings → Privacy & Security**, scroll to the Security section, and choose **Open Anyway** for Reqzen.
 
 ## What Reqzen helps you do
 

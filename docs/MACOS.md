@@ -50,7 +50,7 @@ npm run dist:mac
 
 The `.dmg` is written to `release/`. The build targets the architecture of the Mac running it: Apple silicon produces arm64; Intel produces x64. To install, open the disk image and drag Reqzen to Applications.
 
-This package is unsigned and not notarized. On first launch, macOS may block the app. In Finder, Control-click Reqzen, choose **Open**, and confirm only if you trust the build.
+This package is unsigned and not notarized. On first launch, macOS may block the app. Only proceed if you obtained the build from the official Releases page and trust it. In Finder, Control-click Reqzen, choose **Open**, and confirm. If macOS still blocks the app, open **System Settings → Privacy & Security**, scroll to the Security section, and choose **Open Anyway** for Reqzen.
 
 ## Create a signed and notarized disk image
 

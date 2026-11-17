@@ -1,6 +1,6 @@
 {
   "name": "reqzen-desktop",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "private": true,
   "description": "Reqzen is a local-first API explorer and desktop API client that scans Java, JavaScript/TypeScript, and Python projects into searchable catalogs, then helps you review and send API requests.",
   "main": "main.js",
